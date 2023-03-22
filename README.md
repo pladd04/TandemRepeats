@@ -1,2 +1,2 @@
 # TandemRepeats
-Resources for disease associated unstable tandem repeats
+Resources for disease-associated unstable tandem repeats
